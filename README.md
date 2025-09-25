@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ajay Bhattacharyya
 
-I am a software engineer from Rochester, New York with a passion for developing full-stack web applications and appied AI systems. 
+I am a software engineer from Rochester, New York with a passion for developing full-stack web applications and applied AI systems. 
 
 I have bachelor's degrees in Computer Science and Mathematics from SUNY Brockport, and 4 years of industry experience as a software engineer.
 
@@ -15,7 +15,15 @@ I have bachelor's degrees in Computer Science and Mathematics from SUNY Brockpor
 
 ###
 
-📫 ajay.bhattacharyya.16@gmail.com
+🔭 I am currently working on an [NFL Game Outcome Predictor](https://github.com/AjayBhatta16/nfl-outcome-predictor) and a [Web Traffic Analysis & IP Logging Tool](https://github.com/AjayBhatta16/grabify-clone), as well as maintaining and enhancing my other projects.
+
+###
+
+🌱 I’m currently learning how to deploy and scale web applications on the cloud, as well as working to sharpen my data analytics and machine learning skills.
+
+###
+
+📫 You can reach me by email here: ajay.bhattacharyya.16@gmail.com
 
 ###
 
